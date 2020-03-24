@@ -2,6 +2,8 @@ Maetti's Fork (Ethereum) + Altera/Intel OpenCL(FPGA)
 
 Forked version of https://github.com/ethereum-mining/ethminer
 
+Now updating
+
 ### Features
 
 - OpenCL mining embedded original project kernels
